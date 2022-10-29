@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_basic_info_site",
+  "version": "1.0.0",
+  "description": "run the code 1. Node index.js 2. Open http://localhost:8080/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemuellin/nodeJS_basic_info_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemuellin/nodeJS_basic_info_site/issues"
+  },
+  "homepage": "https://github.com/lemuellin/nodeJS_basic_info_site#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
